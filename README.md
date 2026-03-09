@@ -13,6 +13,14 @@
 - Java
 - JavaScript
 - PHP
+- Rust
+- Go
+- Scala
+- Kotlin
+- Lua
+- English
+- Spanish
+- Sir Jim
 
 ### **Frameworks & Libraries**
 - React

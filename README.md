@@ -20,7 +20,7 @@
 - Lua
 - English
 - Spanish
-- Sir Jim
+- Sir Jim mitnamit
 
 ### **Frameworks & Libraries**
 - React

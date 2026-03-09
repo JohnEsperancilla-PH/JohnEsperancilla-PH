@@ -20,7 +20,15 @@
 - Lua
 - English
 - Spanish
-- Sir Jim mitnamit
+- Bisaya
+- Hiligaynon
+- Karay'a
+- Ilokano
+- Waray
+- Kapampangan
+- French (FRIES) AND KISS
+- 
+  
 
 ### **Frameworks & Libraries**
 - React
